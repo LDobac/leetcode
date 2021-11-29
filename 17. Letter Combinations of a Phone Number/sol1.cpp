@@ -44,7 +44,6 @@ public:
         {
             com(digits, digitIndex + 1, str + letters[i], out);
         }
-        
     }
 };
 
